@@ -1,0 +1,53 @@
+TY  - JOUR
+T1  - Machine learning enhanced framework for rainfall-induced debris flows spatio-temporal prediction: Integrating mobilized materials and hydrological processes
+AU  - Zhou, Wentao
+AU  - Zou, Qiang
+AU  - Jiang, Hu
+AU  - Chen, Siyu
+AU  - Zhou, Bin
+AU  - Xiang, Bo
+AU  - Yang, Tao
+AU  - Lai, Fujian
+AU  - Hu, Xinyue
+AU  - Zeng, Zihao
+JO  - Journal of Hydrology: Regional Studies
+VL  - 63
+SP  - 103046
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 2214-5818
+DO  - [https://doi.org/10.1016/j.ejrh.2025.103046](https://doi.org/10.1016/j.ejrh.2025.103046)
+UR  - [https://www.sciencedirect.com/science/article/pii/S2214581825008754](https://www.sciencedirect.com/science/article/pii/S2214581825008754) KW  - Rainfall-induced debris flows KW  - Machine learning KW  - Mobilized material KW  - Hydrological processes KW  - Spatio-temporal prediction AB  - Study region Liangshan Prefecture, Sichuan Province, Southwestern China Study Focus Climate change has intensified extreme rainfall events, increasing the frequency of rainfall-induced debris flows in mountainous regions, causing severe damage to downstream communities and infrastructure. However, predicting the spatiotemporal distribution of debris flows remains challenging due to the complex interactions of influencing factors and the lack of a comprehensive predictive indicator system. This study proposes a machine learning (ML) enhanced framework for spatio-temporal prediction of debris flows. It conducts an in-depth investigation into the rainfall-induced debris flow occurrence probability and its formation mechanisms across 1704 catchment units from 2020 to 2024. New hydrogeological insights from the region The framework considers the entire formation process of rainfall-induced debris flows and innovatively integrates two key indicators: mobilized material volume (MMV) and hourly peak discharge (HPD). A hybrid ML algorithm optimized using particle swarm optimization (PSO) is employed to enhance the accuracy of spatiotemporal debris flow predictions. The results indicate that: (i) all hybrid models demonstrated strong predictive performance, with accuracy (ACC) ranging from 0.713 to 0.901, and the PSO-XGB model showing the best performance; (ii) the inclusion of MMV and HPD significantly enhanced model performance, increasing AUC by 11.23∼20.67 % and improving prediction efficiency by 122.27∼196.37 %; (iii) indicator importance analysis reveals that HPD contributes the most to differentiating debris flow occurrences, accounting for 21.8 %. Furthermore, using a case study of a June 11, 2024 debris flow event, the framework accurately predicted the event and revealed that its occurrence was primarily controlled by the coupled interaction between hydrological triggering conditions and the availability of mobilized materials, rather than by rainfall intensity alone. The proposed method provides a theoretical foundation and technical support for early warning systems and regional-scale debris flow risk management. ER  - @article{ZHOU2026103046,
+title = {Machine learning enhanced framework for rainfall-induced debris flows spatio-temporal prediction: Integrating mobilized materials and hydrological processes},
+journal = {Journal of Hydrology: Regional Studies},
+volume = {63},
+pages = {103046},
+year = {2026},
+issn = {2214-5818},
+doi = {[https://doi.org/10.1016/j.ejrh.2025.103046}](https://doi.org/10.1016/j.ejrh.2025.103046),
+url = {[https://www.sciencedirect.com/science/article/pii/S2214581825008754}](https://www.sciencedirect.com/science/article/pii/S2214581825008754),
+author = {Wentao Zhou and Qiang Zou and Hu Jiang and Siyu Chen and Bin Zhou and Bo Xiang and Tao Yang and Fujian Lai and Xinyue Hu and Zihao Zeng},
+keywords = {Rainfall-induced debris flows, Machine learning, Mobilized material, Hydrological processes, Spatio-temporal prediction},
+abstract = {Study region
+Liangshan Prefecture, Sichuan Province, Southwestern China
+Study Focus
+Climate change has intensified extreme rainfall events, increasing the frequency of rainfall-induced debris flows in mountainous regions, causing severe damage to downstream communities and infrastructure. However, predicting the spatiotemporal distribution of debris flows remains challenging due to the complex interactions of influencing factors and the lack of a comprehensive predictive indicator system. This study proposes a machine learning (ML) enhanced framework for spatio-temporal prediction of debris flows. It conducts an in-depth investigation into the rainfall-induced debris flow occurrence probability and its formation mechanisms across 1704 catchment units from 2020 to 2024.
+New hydrogeological insights from the region
+The framework considers the entire formation process of rainfall-induced debris flows and innovatively integrates two key indicators: mobilized material volume (MMV) and hourly peak discharge (HPD). A hybrid ML algorithm optimized using particle swarm optimization (PSO) is employed to enhance the accuracy of spatiotemporal debris flow predictions. The results indicate that: (i) all hybrid models demonstrated strong predictive performance, with accuracy (ACC) ranging from 0.713 to 0.901, and the PSO-XGB model showing the best performance; (ii) the inclusion of MMV and HPD significantly enhanced model performance, increasing AUC by 11.23∼20.67 % and improving prediction efficiency by 122.27∼196.37 %; (iii) indicator importance analysis reveals that HPD contributes the most to differentiating debris flow occurrences, accounting for 21.8 %. Furthermore, using a case study of a June 11, 2024 debris flow event, the framework accurately predicted the event and revealed that its occurrence was primarily controlled by the coupled interaction between hydrological triggering conditions and the availability of mobilized materials, rather than by rainfall intensity alone. The proposed method provides a theoretical foundation and technical support for early warning systems and regional-scale debris flow risk management.}
+}
+Wentao Zhou, Qiang Zou, Hu Jiang, Siyu Chen, Bin Zhou, Bo Xiang, Tao Yang, Fujian Lai, Xinyue Hu, Zihao Zeng,
+Machine learning enhanced framework for rainfall-induced debris flows spatio-temporal prediction: Integrating mobilized materials and hydrological processes,
+Journal of Hydrology: Regional Studies,
+Volume 63,
+2026,
+103046,
+ISSN 2214-5818,
+[https://doi.org/10.1016/j.ejrh.2025.103046](https://doi.org/10.1016/j.ejrh.2025.103046).
+([https://www.sciencedirect.com/science/article/pii/S2214581825008754](https://www.sciencedirect.com/science/article/pii/S2214581825008754))
+Abstract: Study region
+Liangshan Prefecture, Sichuan Province, Southwestern China
+Study Focus
+Climate change has intensified extreme rainfall events, increasing the frequency of rainfall-induced debris flows in mountainous regions, causing severe damage to downstream communities and infrastructure. However, predicting the spatiotemporal distribution of debris flows remains challenging due to the complex interactions of influencing factors and the lack of a comprehensive predictive indicator system. This study proposes a machine learning (ML) enhanced framework for spatio-temporal prediction of debris flows. It conducts an in-depth investigation into the rainfall-induced debris flow occurrence probability and its formation mechanisms across 1704 catchment units from 2020 to 2024.
+New hydrogeological insights from the region
+The framework considers the entire formation process of rainfall-induced debris flows and innovatively integrates two key indicators: mobilized material volume (MMV) and hourly peak discharge (HPD). A hybrid ML algorithm optimized using particle swarm optimization (PSO) is employed to enhance the accuracy of spatiotemporal debris flow predictions. The results indicate that: (i) all hybrid models demonstrated strong predictive performance, with accuracy (ACC) ranging from 0.713 to 0.901, and the PSO-XGB model showing the best performance; (ii) the inclusion of MMV and HPD significantly enhanced model performance, increasing AUC by 11.23∼20.67 % and improving prediction efficiency by 122.27∼196.37 %; (iii) indicator importance analysis reveals that HPD contributes the most to differentiating debris flow occurrences, accounting for 21.8 %. Furthermore, using a case study of a June 11, 2024 debris flow event, the framework accurately predicted the event and revealed that its occurrence was primarily controlled by the coupled interaction between hydrological triggering conditions and the availability of mobilized materials, rather than by rainfall intensity alone. The proposed method provides a theoretical foundation and technical support for early warning systems and regional-scale debris flow risk management.
+Keywords: Rainfall-induced debris flows; Machine learning; Mobilized material; Hydrological processes; Spatio-temporal prediction
